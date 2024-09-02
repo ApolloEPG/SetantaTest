@@ -1,70 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
-
-<channel id="SETANTA SPORTS 01">
-<display-name>SETANTA SPORTS 01</display-name>
-</channel>
-
-<programme channel=SETANTA SPORTS 01" start="20240101000000 +0000" stop="20251231235900 +0000">
-<title>SETANTA SPORTS 01</title>
-<desc>Setanta Sports 01 - Various Sports Available On This Channel Including English Premier League</desc>
-<sub-title>SETANTA SPORTS 01</sub-title>
-</programme>
-
-</tv>
-
-<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
-
-<channel id="SETANTA SPORTS 02">
-<display-name>SETANTA SPORTS 02</display-name>
-</channel>
-
-<programme channel=SETANTA SPORTS 01" start="20240101000000 +0000" stop="20251231235900 +0000">
-<title>SETANTA SPORTS 02</title>
-<desc>Setanta Sports 02 - Various Sports Available On This Channel Including English Premier League</desc>
-<sub-title>SETANTA SPORTS 02</sub-title>
-</programme>
-
-</tv>
-
-<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
-
-<channel id="SETANTA SPORTS 03">
-<display-name>SETANTA SPORTS 03</display-name>
-</channel>
-
-<programme channel=SETANTA SPORTS 03" start="20240101000000 +0000" stop="20251231235900 +0000">
-<title>SETANTA SPORTS 03</title>
-<desc>Setanta Sports 03 - Various Sports Available On This Channel Including English Premier League</desc>
-<sub-title>SETANTA SPORTS 03</sub-title>
-</programme>
-
-</tv>
-
-<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
-
-<channel id="SETANTA SPORTS 04">
-<display-name>SETANTA SPORTS 04</display-name>
-</channel>
-
-<programme channel=SETANTA SPORTS 04" start="20240101000000 +0000" stop="20251231235900 +0000">
-<title>SETANTA SPORTS 04</title>
-<desc>Setanta Sports 04 - Various Sports Available On This Channel Including English Premier League</desc>
-<sub-title>SETANTA SPORTS 04</sub-title>
-</programme>
-
-</tv>
-
-<tv date="1/1/2021 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
-
-<channel id="SETANTA SPORTS 05">
-<display-name>SETANTA SPORTS 05</display-name>
-</channel>
-
-<programme channel=SETANTA SPORTS 05" start="20240101000000 +0000" stop="20251231235900 +0000">
-<title>SETANTA SPORTS 05</title>
-<desc>Setanta Sports 05 - Various Sports Available On This Channel Including English Premier League</desc>
-<sub-title>SETANTA SPORTS 05</sub-title>
-</programme>
-
-</tv>
+	<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="Apollo">
+<channel id="(EPL) - Arsenal">
+		<display-name>Sky Sports+ | Event 60</display-name>
+		<icon src="https://archive.org/download/arsenal_202309/Arsenal.jpgg" />
+	</channel>
+	<programme start="20240901010133 +0100" stop="20240901162001 +0100" start_timestamp="1725148893" stop_timestamp="1725204001" channel="skymulti/event60" >
+		<title>Next Fixture - Tottenham Hotspur v Arsenal | 15/09/2024 15:00)</title>
+		<desc>Next Fixture - Tottenham Hotspur v Arsenal - Sunday 15th September - 14:00 Kick Off GMT - English Premier League</desc>
+	</programme>
+	<programme start="20240901162001 +0100" stop="20240901202001 +0100" start_timestamp="1725204001" stop_timestamp="1725218401" channel="skymulti/event60" >
+		<title>Next Fixture - Aston Villa v Everton | 15/09/2024 17:30)</title>
+		<desc>Next Fixture - Aston Villa v Everton - Saturday 14th September - 17:30 Kick Off GMT - English Premier League</desc>
+	</programme>
+	<programme start="20240901202001 +0100" stop="20240911202001 +0100" start_timestamp="1725218401" stop_timestamp="1726082401" channel="skymulti/event60" >
+		<title>Next Fixture - AFC Bournemouth v Chelsea | 14/09/2024 20:00)</title>
+		<desc>Next Fixture - AFC Bournemouth v Chelsea - Saturday 14th September - 20:00 Kick Off GMT - English Premier League</desc>
+	</programme>
