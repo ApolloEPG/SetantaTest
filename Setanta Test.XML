@@ -1,18 +1,18 @@
-	<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="Apollo">
 <channel id="(EPL) - Arsenal">
-		<display-name>(EPL) - Arsenal</display-name>
-		<icon src="https://archive.org/download/arsenal_202309/Arsenal.jpgg" />
-	</channel>
-	<programme start="20240901010133 +0100" stop="20240901162001 +0100" start_timestamp="1725148893" stop_timestamp="1725204001" channel="skymulti/event60" >
-		<title>Next Fixture - Tottenham Hotspur v Arsenal | 15/09/2024 15:00)</title>
-		<desc>Next Fixture - Tottenham Hotspur v Arsenal - Sunday 15th September - 14:00 Kick Off GMT - English Premier League</desc>
-	</programme>
-	<programme start="20240901162001 +0100" stop="20240901202001 +0100" start_timestamp="1725204001" stop_timestamp="1725218401" channel="skymulti/event60" >
-		<title>Next Fixture - Aston Villa v Everton | 15/09/2024 17:30)</title>
-		<desc>Next Fixture - Aston Villa v Everton - Saturday 14th September - 17:30 Kick Off GMT - English Premier League</desc>
-	</programme>
-	<programme start="20240901202001 +0100" stop="20240911202001 +0100" start_timestamp="1725218401" stop_timestamp="1726082401" channel="skymulti/event60" >
-		<title>Next Fixture - AFC Bournemouth v Chelsea | 14/09/2024 20:00)</title>
-		<desc>Next Fixture - AFC Bournemouth v Chelsea - Saturday 14th September - 20:00 Kick Off GMT - English Premier League</desc>
-	</programme>
+<display-name>(EPL) - Arsenal</display-name>
+<icon src="https://archive.org/download/arsenal_202309/Arsenal.jpgg" />
+</channel>
+<programme start="20240901010133 +0100" stop="20240901162001 +0100" start_timestamp="1725148893" stop_timestamp="1725204001" channel="skymulti/event60" >
+<title>Next Fixture - Tottenham Hotspur v Arsenal | 15/09/2024 15:00)</title>
+<desc>Next Fixture - Tottenham Hotspur v Arsenal - Sunday 15th September - 14:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240901162001 +0100" stop="20240901202001 +0100" start_timestamp="1725204001" stop_timestamp="1725218401" channel="skymulti/event60" >
+<title>Next Fixture - Aston Villa v Everton | 15/09/2024 17:30)</title>
+<desc>Next Fixture - Aston Villa v Everton - Saturday 14th September - 17:30 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20240901202001 +0100" stop="20240911202001 +0100" start_timestamp="1725218401" stop_timestamp="1726082401" channel="skymulti/event60" >
+<title>Next Fixture - AFC Bournemouth v Chelsea | 14/09/2024 20:00)</title>
+<desc>Next Fixture - AFC Bournemouth v Chelsea - Saturday 14th September - 20:00 Kick Off GMT - English Premier League</desc>
+</programme>
