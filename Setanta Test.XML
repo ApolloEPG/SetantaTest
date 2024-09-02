@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="Apollo">
+<tv generator-info-name="ApolloEPG">
 <channel id="(EPL) - Arsenal">
 <display-name>(EPL) - Arsenal</display-name>
 <icon src="https://archive.org/download/arsenal_202309/Arsenal.jpgg" />
