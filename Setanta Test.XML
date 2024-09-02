@@ -1,7 +1,7 @@
 	<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="Apollo">
 <channel id="(EPL) - Arsenal">
-		<display-name>Sky Sports+ | Event 60</display-name>
+		<display-name>(EPL) - Arsenal</display-name>
 		<icon src="https://archive.org/download/arsenal_202309/Arsenal.jpgg" />
 	</channel>
 	<programme start="20240901010133 +0100" stop="20240901162001 +0100" start_timestamp="1725148893" stop_timestamp="1725204001" channel="skymulti/event60" >
