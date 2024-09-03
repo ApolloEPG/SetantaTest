@@ -3,27 +3,27 @@
 <display-name lang="en">(EPL) Arsenal</display-name>
 <icon src="https://archive.org/download/arsenal_202309/Arsenal.jpg"/>
 </channel>
-<programme start="20240901000000 +0000" stop="20240915000000 +0000" channel="(EPL) Arsenal">
+<programme start="20240901000000 +0000" stop="20240904090000 +0000" channel="(EPL) Arsenal">
 <title lang="en">Tottenham Hotspur v Arsenal - Sunday 15th September - 14:00 Kick Off GMT - English Premier League</title>
 <desc lang="en">Next Fixture - Tottenham Hotspur v Arsenal - Sunday 15th September - 14:00 Kick Off GMT - English Premier League</desc>
 </programme>
-<programme start="20240901050000 +0000" stop="20240917000000 +0000" channel="(EPL) Arsenal">
+<programme start="20240901050000 +0000" stop="20240917235959 +0000" channel="(EPL) Arsenal">
 <title lang="en">Arsenal v Bolton Wanderers - Tuesday 17th September - 20:00 Kick Off GMT - Carabao Cup</title>
 <desc lang="en">Next Fixture - Arsenal v Bolton Wanderers - Tuesday 17th September - 20:00 Kick Off GMT - Carabao Cup</desc>
 </programme>
-<programme start="20240901060000 +0000" stop="20240919000000 +0000" channel="(EPL) Arsenal">
+<programme start="20240901060000 +0000" stop="20240919235959 +0000" channel="(EPL) Arsenal">
 <title lang="en">Atalanta v Arsenal - Thursday 19th September - 20:00 Kick Off GMT - UEFA Champions League</title>
 <desc lang="en">Next Fixture - Atalanta v Arsenal - Thursday 19th September - 20:00 Kick Off GMT - UEFA Champions League</desc>
 </programme>
-<programme start="20240901070000 +0000" stop="20240922000000 +0000" channel="(EPL) Arsenal">
+<programme start="20240901070000 +0000" stop="20240922235959 +0000" channel="(EPL) Arsenal">
 <title lang="en">Manchester City v Arsenal - Sunday 22nd September - 16:30 Kick Off GMT - English Premier League</title>
 <desc lang="en">Next Fixture - Manchester City v Arsenal - Sunday 22nd September - 16:30 Kick Off GMT - English Premier League</desc>
 </programme>
-<programme start="20240901080000 +0000" stop="20240928000000 +0000" channel="(EPL) Arsenal">
+<programme start="20240901080000 +0000" stop="2024092235959 +0000" channel="(EPL) Arsenal">
 <title lang="en">Arsenal v Leicester City - Saturday 28th September - 15:00 Kick Off GMT - English Premier League</title>
 <desc lang="en">Next Fixture - Arsenal v Leicester City - Saturday 28th September - 15:00 Kick Off GMT - English Premier League</desc>
 </programme>
-<programme start="20240901090000 +0000" stop="20240901060000 +0000" channel="(EPL) Arsenal">
+<programme start="20240901090000 +0000" stop="202409010600" +0000" channel="(EPL) Arsenal">
 <title lang="en">Football</title>
 <desc lang="en">Football</desc>
 </programme>
